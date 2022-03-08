@@ -60,3 +60,7 @@ topics:
   - name: JavaScript
     web_url: https://www.w3schools.com/js/
     image_url: https://www.w3schools.com/whatis/img_js.png
+   
+  - name: Python 
+    web_url: https://www.python.org
+    image_url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
