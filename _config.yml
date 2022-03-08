@@ -59,6 +59,6 @@ topics:
     web_url: https://www.python.org
     image_url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
     
-  -name: C++
-   web_url: https://www.w3schools.com/CPP/default.asp
-   image_url: https://images.app.goo.gl/1FijSTnvPihmVK6o6
+  - name: C++
+    web_url: https://www.w3schools.com/CPP/default.asp
+    image_url: https://images.app.goo.gl/1FijSTnvPihmVK6o6
