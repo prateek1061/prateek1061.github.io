@@ -50,10 +50,6 @@ topics:
   - name: CSS
     web_url: https://github.com/topics/css
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
-
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
   
   - name: JavaScript
     web_url: https://www.w3schools.com/js/
@@ -65,4 +61,4 @@ topics:
     
   -name: C++
    web_url: https://www.w3schools.com/CPP/default.asp
-   image_url: https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg
+   image_url: https://images.app.goo.gl/1FijSTnvPihmVK6o6
