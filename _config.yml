@@ -62,3 +62,7 @@ topics:
   - name: Python 
     web_url: https://www.python.org
     image_url: https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg
+    
+  -name: C++
+   web_url: https://www.w3schools.com/CPP/default.asp
+   image_url: https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg
